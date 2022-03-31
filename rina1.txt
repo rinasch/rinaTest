@@ -3,3 +3,5 @@ rina2
 rina3
 rina4
 rina5
+rina6
+rina7
